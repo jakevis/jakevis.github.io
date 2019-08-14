@@ -24,6 +24,7 @@ twitter_username: jakevis_
 github_username: jakevis
 minimal_mistakes_skin: dark
 search: true
+search_full_content: true
 logo: #""
 repository: "jakevis/jakevis.github.io"
 
