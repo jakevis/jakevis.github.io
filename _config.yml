@@ -25,6 +25,7 @@ github_username: jakevis
 minimal_mistakes_skin: dark
 search: true
 logo: #""
+repository: "jakevis/jakevis.github.io"
 
 # Build settings
 markdown: kramdown
