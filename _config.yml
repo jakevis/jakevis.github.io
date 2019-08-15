@@ -36,6 +36,7 @@ search_full_content: true
 logo: #""
 repository: "jakevis/jakevis.github.io"
 
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -78,6 +79,7 @@ author:
   name   : "JakeVis"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Jack of all [things technical], but master of **none**"
+  location: "Seattle, WA, USA"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
