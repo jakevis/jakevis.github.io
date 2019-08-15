@@ -10,6 +10,9 @@ In addition to working as a security architect, I am now a director at [Emerald 
 I am hoping to keep this site up and running, and include articles and tid bits that I have figured out or would otherwise need to search for myself. I have been reading everyone elses blogs and posts to work ***stuff*** out for the last 20+ years... its time to give back.
 
 Unless otherwise stated, or specified in the source of my posts, everything on this site is
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
+
+Jekyll and this theme (Minimal Mistakes) are both licensed under the [MIT Licence][MIT-Lic]
 
 [EO-Web]: https://emeraldonion.org/
+[MIT-Lic]: https://opensource.org/licenses/MIT
