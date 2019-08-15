@@ -75,9 +75,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jake Vis"
+  name   : "JakeVis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Jack of all [things technical], but master of **none**"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
