@@ -97,6 +97,12 @@ author:
     #  icon: "fab fa-fw fa-instagram"
     #  url: "https://instagram.com/"
 
+analytics:
+  provider               : google # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-145874977-1
+    anonymize_ip         : false # true, false (default)
+
 footer:
   links:
     - label: "LinkedIn"
