@@ -78,7 +78,7 @@ plugins:
 author:
   name   : "JakeVis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Jack of all [things technical], but master of **none**"
+  bio    : "Jack of all, master of **none**"
   location: "Seattle, WA, USA"
   links:
     - label: "Website"
