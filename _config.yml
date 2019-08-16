@@ -63,8 +63,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
- exclude:
-   - _drafts/
+exclude:
+  - _drafts
 
 # Plugins (previously gems:)
 plugins:
