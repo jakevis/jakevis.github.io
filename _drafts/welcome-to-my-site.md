@@ -10,7 +10,7 @@ tags:
   - Guide
 ---
 
-So its been a long time since I have done this....
+So its been a long time since I have done this.
 
 ---
 
