@@ -63,6 +63,9 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+ exclude:
+   - _drafts/
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
