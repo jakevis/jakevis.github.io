@@ -9,6 +9,9 @@ tags:
   - GitHub
 ---
 
+**Success Notice:** HELLO WORLD!!
+{: .notice--success}
+
 So its been a long time since I have done this.. I wanted a site where I can keep records of all the random things I get up-to, and also provide me a how-to for future reference and reproduction. 
 
 For reference, this site is hosted on [GitHub][Github-site], and uses [Jekyll][jekyll-docs]. I am also using [Minimal Mistakes][MinMist-site] for my theme.
@@ -22,8 +25,9 @@ One of the first guides ill publish is what I did here to make that happen. Some
 
 And other things as I get to them... in the mean time:
 
-**Success Notice:** HELLO WORLD!!
-{: .notice--success}
+**Warning Notice:** Things I put on this site might break you or not be allowed where you live.
+{: .notice--warning}
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
