@@ -12,6 +12,9 @@ tags:
 
 As I mentioned before, it has been a long time to-do item for me to get a blog/website up and running. I finally pulled the trigger and this is a result. This is the down a dirty guide..
 
+* TOC
+{:toc}
+
 ## Step 1: Select hosting
 
 For me - and many others, this should be simple. [GitHub][GitHub] offers a free service for static pages. [Github Pages][GitHub-pages] - free hosting based off your public or private repo.
@@ -229,7 +232,7 @@ Once running you should be able to go to [http://127.0.0.1:4000/](http://127.0.0
 ```--incremental```: This is experimental still, but speeds up rebuild times
 ```--drafts```: This enabled rendering a ```_drafts``` folder. When published to github, this folder is ignored; so its handy to put unfinished work in here prior to go-live.
 
-## FTW
+## Step 4: Finishing up
 
 So if your site runs localy; it should run on github too. Just commit and push your changes and you should be set. If you screw something up and it fails to build... github will email you:
 
