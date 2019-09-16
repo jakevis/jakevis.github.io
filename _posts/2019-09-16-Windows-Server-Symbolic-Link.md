@@ -6,6 +6,7 @@ categories:
   - Windows
 tags:
   - Fileshare
+  - How-To
 ---
 
 Need to mount a network drive/share "within" a windows filesystem? Run this command from an elevated command prompt.

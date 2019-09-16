@@ -6,6 +6,7 @@ categories:
   - Windows
 tags:
   - Networking
+  - How-To
 ---
 
 Every needed to add a seondary interface on a Windows server? This will allow you to do it.
@@ -15,3 +16,5 @@ Make sure you have hyper-v installed - and then add the interfaces. This will ad
 Add-VMNetworkAdapter -ManagementOS -Name ClientNet
 Set-VMNetworkAdapterVlan -ManagementOS -VMNetworkAdapterName ClientNet -Access -VlanId 1
 ```
+
+If you need to stop your machine from registering this IP in DNS (with AD), machine sure you open up the adaptor, got to TCP/IP settings, advanced, DNS and uncheck the register with DNS.
