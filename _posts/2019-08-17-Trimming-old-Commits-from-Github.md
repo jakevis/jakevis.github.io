@@ -1,7 +1,7 @@
 ---
 title: "Trimming old Commits from Github"
 #date: 2019-08-14T15:30:00-06:00
-#last_modified_at: 2019-08-14T15:30:00-06:00
+last_modified_at: 2019-10-02T10:30:00-07:00
 categories:
   - Git
 tags:
@@ -81,3 +81,17 @@ git branch -D newmaster
 ```
 
 And done... all old commits before your hash should be removed, and the branches cleaned up.
+
+## Step 5: *New Addition* - Remove Tags
+
+You also need to remove tags as well.. Best to use linux (or WSL) for this.
+
+Remove tags from local repo:
+```bash
+git tag -d `git tag | grep -E '.'`
+```
+
+Remove tags from github:
+```bash
+git ls-remote --tags origin | awk '/^(.*)(\s+)(.*[a-zA-Z0-9])$/ {print ":" $2}' | xargs git push origin
+```
