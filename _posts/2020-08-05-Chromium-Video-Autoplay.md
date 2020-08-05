@@ -22,7 +22,7 @@ chromium-browser --autoplay-policy=no-user-gesture-required --noerrdialogs --inc
 And if you are running the dakboard provided image, this is part of the script located at: ```/home/pi/startup/chromium.sh```
 
 
-[GL-X750]: https://dakboard.com
+[Dakboard]: https://dakboard.com
 
 
 
