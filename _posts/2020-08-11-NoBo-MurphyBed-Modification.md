@@ -9,10 +9,10 @@ tags:
   - How-To
 ---
 
+In the 2020 No boundaries 19.6 model (and in other models), NoBo does a vertical murphy bed at the end of the trailer. This has the very unfortunate downside that while the bed is put away, it completely blocks the window.
+
 * TOC
 {:toc}
-
-In the 2020 No boundaries 19.6 model (and in other models), NoBo does a vertical murphy bed at the end of the trailer. This has the very unfortunate downside that while the bed is put away, it completely blocks the window.
 
 ![Image1](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE1.jpg)
 
@@ -20,7 +20,7 @@ I wanted to see if there was a way to reclaim this by having the bed fold fully 
 
 We'll do this in three parts: the mattress, the bed board, and the locks.
 
-## THE MATTRESS:
+## THE MATTRESS
 Our goal with the mattress is to get something that can fold completely flat back on top of itself. The bed is a queen, which should mean 60" wide and 80" long. The actual original mattress is only 78" long, and your replacement will have to be the same (or in fact smaller) or it's unlikely to all fit. The replacement mattress obviously must be a solid foam mattress. Don't go too tall with it or it won't all fit. I ended up buying this mattress:
 
 [https://www.amazon.com/gp/product/B01N0VNL1N/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1]
@@ -46,7 +46,7 @@ So all together, you have the shortened 6" foam mattress cut in half, the shorte
 
 ![Image2](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE2.jpg)
 
-## THE BOARD:
+## THE BOARD
 So now it's time to cut the board itself. Continuing this game of inches, you have to balance several things at once: the cut needs to be high enough that it's above the thickness of your folded mattress. And for us, we cut it so that when folded forward on top of the mattress, the end of the board aligns with the back side of the closets on either side of the bed. This is where we installed the latches to hold the whole thing in place (last step, later).
 
 The board is aluminum frame, with the decorative backer board. It is full of styrofoam. Here's a photo of what it looks inside when cut:
@@ -61,7 +61,7 @@ Now you probably want to deal with decorative edging. You can put the black plas
 
 With the board cut and edged, last thing is installing a hinge. I used a piano hinge for strength and because they're easier to align in these situations than a series of individual hinges. 4' piano hinge from Lowe's. The screws it came with seemed worryingly small so I got one size bigger to make sure it has strength. Remember, when you sit on the edge of the bed you'll be pulling against this hinge!
 
-## THE HASPS:
+## THE HASPS
 Finally the hasps. I went with two marine hasps:
 
 [https://www.amazon.com/gp/product/B000HA9JZU/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1]
@@ -70,14 +70,14 @@ Hasps are mounted to the back side of the cabinets, with the rotating hasp part 
 
 ![Image4](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE4.jpg)
 
-## ALL DONE:
+## ALL DONE
 So this is what you have now:
 
 ![Image5](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE5.jpg)
 
 Full access to that window, and a table to boot (wouldn't climb on it or anything but great for setting down drinks or books).
 
-## MAKING THE BED:
+## MAKING THE BED
 The process to put the bed away is:
 1. Shove all pillows, comforters into the side holes out of the way.
 ![Image6](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE6.jpg)
