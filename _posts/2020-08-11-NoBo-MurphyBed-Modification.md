@@ -1,5 +1,5 @@
 ---
-title: "Nobo Murphy Bed Modification"
+title: "NoBo Murphy Bed Modification"
 #date: 2019-08-14T15:30:00-06:00
 #last_modified_at: 2019-08-14T15:30:00-06:00
 categories:
