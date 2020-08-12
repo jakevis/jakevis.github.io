@@ -11,14 +11,14 @@ tags:
 
 In the 2020 No boundaries 19.6 model (and in other models), NoBo does a vertical murphy bed at the end of the trailer. This has the very unfortunate downside that while the bed is put away, it completely blocks the window.
 
-* TOC
-{:toc}
-
 ![Image1](../../assets/images/2020-08-11-NoBo-MurphyBed-Modification/IMAGE1.jpg)
 
 I wanted to see if there was a way to reclaim this by having the bed fold fully flat. In short: it's possible, but it's a game of inches and you have to be very careful with your cutting. I would strongly suggest measuring your own trailer setup as you follow along, to make sure the math works out for you too.
 
 We'll do this in three parts: the mattress, the bed board, and the locks.
+
+* TOC
+{:toc}
 
 ## THE MATTRESS
 Our goal with the mattress is to get something that can fold completely flat back on top of itself. The bed is a queen, which should mean 60" wide and 80" long. The actual original mattress is only 78" long, and your replacement will have to be the same (or in fact smaller) or it's unlikely to all fit. The replacement mattress obviously must be a solid foam mattress. Don't go too tall with it or it won't all fit. I ended up buying this mattress:
