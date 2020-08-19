@@ -15,8 +15,7 @@ This is quite a simple fix, log into your device and you want to click "Manual S
 
 You then want to select **/dev/ttyUSB3** and enter the appropriate APN. ```VSBLINTERNET``` for me.
 
-
-![Login](../../assets/images/2020-08-18-GLinet-APN-Change/1.png)
+![APN Change](../../assets/images/2020-08-18-GLinet-APN-Change/1.PNG)
 
 Once you are done, apply, and you should connect and be good to go.
 
