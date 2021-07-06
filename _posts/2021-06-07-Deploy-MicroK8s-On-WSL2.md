@@ -59,7 +59,22 @@ appendWindowsPath = true
 [user]
 default = jake
 ```
+### Create the SystemD startup script
 
+``` vi /etc/profile.d/00-wsl2-systemd.sh```
+And add:
+```
+SYSTEMD_PID=$(ps -ef | grep '/lib/systemd/systemd --system-unit=basic.target$' | grep -v unshare | awk '{print $2}')
+
+if [ -z "$SYSTEMD_PID" ]; then
+   sudo /usr/bin/daemonize /usr/bin/unshare --fork --pid --mount-proc /lib/systemd/systemd --system-unit=basic.target
+   SYSTEMD_PID=$(ps -ef | grep '/lib/systemd/systemd --system-unit=basic.target$' | grep -v unshare | awk '{print $2}')
+fi
+
+if [ -n "$SYSTEMD_PID" ] && [ "$SYSTEMD_PID" != "1" ]; then
+    exec sudo /usr/bin/nsenter -t $SYSTEMD_PID -a su - $LOGNAME
+fi
+```
 ### Optional: set NOPASSWD for sudo 
 
 ```bash
@@ -67,3 +82,42 @@ sudo vi /etc/sudoers
 ```
 Edit line:
 ```%sudo   ALL=(ALL:ALL) :ALL``` to read: ```%sudo   ALL=(ALL:ALL) NOPASSWD:ALL``` (and exit vi with ```!wq```)
+
+## Setup forwarding
+
+```bash
+echo 'net.ipv4.conf.all.route_localnet = 1' | sudo tee -a /etc/sysctl.conf
+sudo sysctl -p /etc/sysctl.conf
+```
+
+## Restart WSL
+From an elevated Powershell terminal
+```powershell
+wsl --shutdown
+```
+That should close your linux window..
+
+## Install Microk8s
+
+You should now be able to execute snap
+
+```bash
+snap list
+```
+
+check versions:
+```bash
+snap info microk8s
+```
+
+and install latest:
+```bash
+sudo snap install microk8s --classic
+```
+
+After its complete - check its all running:
+```bash
+sudo microk8s.status
+sudo microk8s.kubectl version
+sudo microk8s.kubectl cluster-info
+```
