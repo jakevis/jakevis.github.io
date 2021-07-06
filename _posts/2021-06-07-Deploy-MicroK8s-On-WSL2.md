@@ -17,7 +17,7 @@ I am running Windows 11, and have enabled WSL2 with Ubuntu via the standard GUI 
 * TOC
 {:toc}
 
-## Step 1: Install Fonts, and set as default for WSL
+## Install Fonts, and set as default for WSL
 
 Seems stupid.. but yes, for things to look ok and everything to render install these:
 
@@ -30,7 +30,7 @@ Right click on your WSL window, select properties, fonts and set it to Cascadia 
 
 ![Fonts](../../assets/images/2021-06-07-Deploy-MicroK8s-On-WSL2/1.png)
 
-## Step 1: Enable SystemD
+## Enable SystemD
 
 Install required software (a different user is not required)
 
